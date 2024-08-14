@@ -1,0 +1,33 @@
+*{
+    margin: 0%;
+}
+.pic{
+    text-align: right;
+    
+}
+#img{
+    text-align: start;
+}
+#p1{
+    font-size: large;
+    font-weight: bolder;
+    text-align: left;
+    color: darkblue;
+}
+#p2{
+    text-align: left;
+
+}
+#p3{
+    text-align: left;
+}
+.nav{
+    display:flex ;
+    gap: 50px;
+    list-style: none;
+    background-color:rgb(1, 2, 255);
+    color: white;
+    justify-content: right;
+    align-items: center;
+    padding: 25px;
+}
